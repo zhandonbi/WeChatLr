@@ -1,4 +1,4 @@
 <!--pages/new/test.wxml-->
-<view>
-<text>hello world</text>
+<view class="test">
+  <text class="test_text">hello world</text>
 </view>

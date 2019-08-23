@@ -1,1 +1,7 @@
 /* pages/new/test.wxss */
+.test{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
