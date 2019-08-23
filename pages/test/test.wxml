@@ -1,0 +1,4 @@
+<!--pages/new/test.wxml-->
+<view>
+<text>hello world</text>
+</view>
